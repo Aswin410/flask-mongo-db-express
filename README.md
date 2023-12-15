@@ -7,8 +7,8 @@
 
  # Contributors
 
-1. Aswin Shaiju
-2. Nytik Birudavolu
+1. Aswin Shaiju - @Aswin410
+2. Nytik Birudavolu - @iamnytik
 
 
 
