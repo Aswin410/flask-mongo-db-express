@@ -5,10 +5,7 @@
 # Introduction
  This is a Flask Blogging Application designed with Microservices Architecture  and deployed using Kubernetes & Docker.
 
-# Contributors
 
-1. Aswin Shaiju
-2. Nytik Biradovulu
 
 # Requirements 
 1. Docker
@@ -43,6 +40,11 @@
 ` minikube service flask-service`
 
 ![image](https://github.com/Aswin410/flask-mongo-db-express/assets/79198536/f6c712bb-33d8-4996-b9ab-0fadb7122e45)
+
+# Contributors
+
+1. Aswin Shaiju
+2. Nytik Biradovulu
 
 
 ![image](https://github.com/Aswin410/flask-mongo-db-express/assets/79198536/ac6b8377-a6cd-43a8-82be-28e619f472a5)
